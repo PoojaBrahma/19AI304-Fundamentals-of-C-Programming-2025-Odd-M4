@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
 # IAPR-4- Module 4 - FoC
-## Name : POOJA P
-## Register number : 212224230195
+## NAME : POOJA P
+## REGISTER NUMBER : 212224230195
 ## 7. Implementation of Functions.
 ## 8. Implementation of passing parameters.
 # Ex.No:16
@@ -43,7 +43,7 @@
 ### Step 14: 
   Stop
 # Program:
-``` c
+```c
 #include <stdio.h>
 
 // Function without parameters and without return value
@@ -156,7 +156,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
-``` c
+```c
 #include <stdio.h>
 
 // Function to find maximum
@@ -245,7 +245,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
-``` c
+```c
 #include <stdio.h>
 
 // Step 3: Function prototypes
